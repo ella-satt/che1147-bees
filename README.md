@@ -1,7 +1,8 @@
 # che1147-bees
 
 
-** Data Preparation
+## Data Preparation
+
 *Data Cleaning*
 The ApisTox dataset does not include any missing or redundant values in the rows or columns.
 
