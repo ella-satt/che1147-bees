@@ -1,5 +1,5 @@
-# che1147-bees
-
+# Predicting Toxicity of Agrochemicals to Honey Bees 🧪🐝
+# che1147-bees 
 
 ## Data Preparation
 
