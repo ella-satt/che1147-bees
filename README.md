@@ -13,6 +13,9 @@ binary classification on the ApisTox dataset.[(Adamczyk, 2026)](https://www.scie
 train and evaluate ternary classification models for the same dataset. Random forest, kernel SVC and XGBoost were trained on three splits of the dataset to evaluate model performance on simple and more realistic and challenging tasks.
 
 ## Environment Setup
+
+If uv is installed, a virtual environment with dependencies installed can be created by running the 'uv sync' command in the VSCode terminal. This should create a jupyter kernel titled 'bee-tox'.
+
 _Dependencies_
 requires-python = ">=3.10"
 dependencies = [
